@@ -14,16 +14,12 @@ Jadranska 19, 1000 Ljubljana, Slovenia
 
 ## Research interests
 
-Real algebraic geometry, truncated moment problems, moment problems, matrix polynomials, completely positive maps.
+Truncated moment problems.
 
 ## Preprints
 
-<ol>
-<li value="25">	 with <a href="https://tu-dresden.de/mn/math/geometrie/kummer">M. Kummer</a>: <a href="https://zalara.github.io/Papers/MomentsOnCubics.pdf">Positive polynomials and the truncated moment problem on plane cubics.</a></li>
-</ol>
-
 ## Academic education
 
-* 2011 - 2013: MSc in Mathematics, University of Ljubljana. Thesis: [Moment problems for matrix and operator polynomials (in Slovene)](https://repozitorij.uni-lj.si/Dokument.php?id=106186&lang=slv). Supervisor: Prof. [Jaka Cimprič](https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/)
+* 2022 - 2025: MSc in Mathematics, University of Maribor. Thesis: [Flank triangles and friendship among triangle centers (in Slovene)](https://dk.um.si/Dokument.php?id=187866&lang=slv). Supervisor: Prof. [Bojan Hvala](https://omr.fnm.um.si/index.php/zaposleni/clani-oddelka/bojan-hvala/)
 
-* 2008 - 2011: BSc in Mathematics, University of Ljubljana. Thesis: [Matrix generalizations of Farkas lemma (in Slovene)](https://repozitorij.uni-lj.si/Dokument.php?id=105978&lang=slv). Supervisor: Prof. [Jaka Cimprič](https://www.fmf.uni-lj.si/en/directory/29/cimpric-jakob/)
+* 2019 - 2022: BSc in Mathematics, University of Maribor.
